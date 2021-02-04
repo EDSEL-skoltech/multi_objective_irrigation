@@ -1,0 +1,11 @@
+{
+  "latitude": 52,
+  "longitude": 5,
+  "crop_start": "2006-04-05",
+  "crop_end": "2006-10-20",
+  "crop_name": "sugarbeet",
+  "irrigation_events":["2006-06-20", "2006-07-20", "2006-08-20", "2006-08-25"], 
+  "irrigation_ammounts":[10,10,10,10],
+  "npk_events":[],
+  "npk":[]
+}

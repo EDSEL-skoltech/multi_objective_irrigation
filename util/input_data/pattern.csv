@@ -1,0 +1,9 @@
+## Site Characteristics
+Country     = 'USA'
+Station     = 'NASA'
+Description = 'NASA'
+Source      = 'NASA'
+Contact     = 'Peter Uithol'
+Longitude = 1111; Latitude = 2222; Elevation = 3333; AngstromA = 4444; AngstromB = 5555; HasSunshine = False
+## Daily weather observations (missing values are NaN)
+DAY,IRRAD,TMIN,TMAX,VAP,WIND,RAIN,SNOWDEPTH
