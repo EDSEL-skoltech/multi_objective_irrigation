@@ -5,11 +5,11 @@ How to run example of WOFOST model and multi-objective irrigation optimization c
 
 Open `How_to_start.ipynb` in Google Colab!
 
-<a href="https://colab.research.google.com/github/mishagrol/multi_objective_irrigation/blob/main/How_to_start.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/github/EDSEL-skoltech/multi_objective_irrigation/blob/main/How_to_start.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 To start with optimizations problems and PyMOO open in Colab
 
-<a href="https://colab.research.google.com/github/mishagrol/multi_objective_irrigation/blob/main/Plots_for_ICCS.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/github/EDSEL-skoltech/multi_objective_irrigation/blob/main/Plots_for_ICCS.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 WOFOST crop model
 
