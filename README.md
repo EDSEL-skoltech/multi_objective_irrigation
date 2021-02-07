@@ -2,7 +2,9 @@
 > Multi-objective approach to optimize irrigation using a crop simulation model and historical weather data.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)]
-[!License: MIT](https://img.shields.io/github/license/EDSEL-skoltech/multi_objective_irrigation)
+
+
+![License](https://img.shields.io/github/license/EDSEL-skoltech/multi_objective_irrigation)
 
 We propose a machine learning approach based on the crop simulation model WOFOST to assess the crop yield and water use efficiency. In our work, we use historical weather to evaluate extreme weather scenarios. The application of multi-criteria optimization based on the non-dominated sorting genetic algorithm-II (NSGA-II) allows users to find the dates and volume of water for irrigation, maximizing the yield and reducing the water loss.
 
@@ -95,7 +97,7 @@ Mikhail Gasanov – Mikhail.Gasanov@skoltech.ru
 
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
-[!License: MIT](https://img.shields.io/github/license/EDSEL-skoltech/multi_objective_irrigation)
+[https://img.shields.io/github/license/EDSEL-skoltech/multi_objective_irrigation]
 
 ## TO-DO list
 
