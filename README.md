@@ -1,9 +1,6 @@
 # Multi-objective irrigation optimization
 > Multi-objective approach to optimize irrigation using a crop simulation model and historical weather data.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)]
-
-
 ![License](https://img.shields.io/github/license/EDSEL-skoltech/multi_objective_irrigation)
 
 We propose a machine learning approach based on the crop simulation model WOFOST to assess the crop yield and water use efficiency. In our work, we use historical weather to evaluate extreme weather scenarios. The application of multi-criteria optimization based on the non-dominated sorting genetic algorithm-II (NSGA-II) allows users to find the dates and volume of water for irrigation, maximizing the yield and reducing the water loss.
@@ -53,7 +50,15 @@ To run multi-objective optimization with example from Moscow region and potato c
 
 User can edit input file `--path_to_user_file` and other parameters
 ```
-python3 multiobjective_optimizer.py --path_to_data_dir './util/input_data/' --path_to_user_file './util/input_data/malino_potato.json' --path_to_CSV_weather './data/meteo' --num_generation '5' --population_size '10' --path_to_npy_files './experiments/test/potato/'
+python3 multiobjective_optimizer.py --path_to_data_dir './util/input_data/' 
+
+--path_to_user_file './util/input_data/malino_potato.json' 
+
+--path_to_CSV_weather './data/meteo' 
+
+--num_generation '5' --population_size '10' 
+
+--path_to_npy_files './experiments/test/potato/'
 ```
 
 User can write main information about agricultural management in JSON format
@@ -66,9 +71,7 @@ Sowing date in format YYYY-MM-DD as "crop_start"
 
 Harvesting date in format YYYY-MM-DD as "crop_end"
 
-User can select crop among number of crops, list of crops: 
-
-[crops](https://github.com/ajwdewit/WOFOST_crop_parameters)
+User can select crop among number of crops: [list of crops](https://github.com/ajwdewit/WOFOST_crop_parameters)
 
 Irrigation dates and volumes (cm), date of fertilization and amounts on NPK (kg)
 
@@ -85,10 +88,6 @@ Irrigation dates and volumes (cm), date of fertilization and amounts on NPK (kg)
     }
 ```
 
-## Development setup
-
-
-
 ## Meta
 
 Mikhail Gasanov – Mikhail.Gasanov@skoltech.ru
@@ -97,7 +96,6 @@ Mikhail Gasanov – Mikhail.Gasanov@skoltech.ru
 
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
-[https://img.shields.io/github/license/EDSEL-skoltech/multi_objective_irrigation]
 
 ## TO-DO list
 
@@ -108,16 +106,9 @@ Distributed under the MIT license. See ``LICENSE`` for more information.
 
 ## Contributing
 
-1. Fork it (<https://github.com/yourname/yourproject/fork>)
+1. Fork it (<https://github.com/EDSEL-skoltech/multi_objective_irrigation/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
 5. Create a new Pull Request
 
-<!-- Markdown link & img dfn's -->
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/datadog-metrics
-[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
-[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
-[wiki]: https://github.com/yourname/yourproject/wiki
