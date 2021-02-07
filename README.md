@@ -9,7 +9,7 @@
 
 ![twwee](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FEDSEL-skoltech%2Fmulti_objective_irrigation)
 
-![](https://img.shields.io/twitter/url?style=social&url=http%3A%2F%2Fedsel.skoltech.ru%2F)
+[![tweet](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FEDSEL-skoltech%2Fmulti_objective_irrigation)](https://img.shields.io/twitter/url?style=social&url=http%3A%2F%2Fedsel.skoltech.ru%2F)
 
 [![Rg](https://img.shields.io/badge/ResearchGate-Follow-green)](https://www.researchgate.net/project/Digital-Agro)
 
