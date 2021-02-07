@@ -3,14 +3,7 @@
 
 ![License](https://img.shields.io/github/license/EDSEL-skoltech/multi_objective_irrigation)
 ![issues](https://img.shields.io/github/issues/EDSEL-skoltech/multi_objective_irrigation)
-![forks](https://img.shields.io/github/forks/EDSEL-skoltech/multi_objective_irrigation)
 ![stars](https://img.shields.io/github/stars/EDSEL-skoltech/multi_objective_irrigation)
-![tweet](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FEDSEL-skoltech%2Fmulti_objective_irrigation)
-
-![twwee](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FEDSEL-skoltech%2Fmulti_objective_irrigation)
-
-[![tweet](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FEDSEL-skoltech%2Fmulti_objective_irrigation)](https://img.shields.io/twitter/url?style=social&url=http%3A%2F%2Fedsel.skoltech.ru%2F)
-
 [![Rg](https://img.shields.io/badge/ResearchGate-Follow-green)](https://www.researchgate.net/project/Digital-Agro)
 
 We propose a machine learning approach based on the crop simulation model WOFOST to assess the crop yield and water use efficiency. In our work, we use historical weather to evaluate extreme weather scenarios. The application of multi-criteria optimization based on the non-dominated sorting genetic algorithm-II (NSGA-II) allows users to find the dates and volume of water for irrigation, maximizing the yield and reducing the water loss.
