@@ -19,5 +19,6 @@ dependencies:
 - pip:
   - traitlets-pcse
   - pymoo
+  - pcse
 
 
