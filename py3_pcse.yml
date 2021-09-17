@@ -18,7 +18,7 @@ dependencies:
 - jupyter
 - pip:
   - traitlets-pcse
-  - pymoo
-  - pcse
+  - pymoo=0.4.2.1
+  - pcse=5.4.2
 
 
