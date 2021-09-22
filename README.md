@@ -12,6 +12,12 @@ We propose a machine learning approach based on the crop simulation model WOFOST
 
 ![graphical](plots_ICCS/Graphical_abstract.png)
 
+-------
+
+## Optimization process
+
+![opimization](plots_ICCS/scatter.gif)
+
 ## Google Colab 
 
 How to run example of WOFOST model and multi-objective irrigation optimization code? 
@@ -23,6 +29,8 @@ Open `How_to_start.ipynb` in Google Colab!
 To plot results of optimization open `Plots_for_ICCS.ipynb`
 
 <a href="https://colab.research.google.com/github/EDSEL-skoltech/multi_objective_irrigation/blob/main/Plots_for_ICCS.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+
 
 ## Dependencies 
 
